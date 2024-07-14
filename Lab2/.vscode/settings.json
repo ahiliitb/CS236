@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "atomic": "cpp",
+        "barrier": "cpp",
+        "condition_variable": "cpp",
+        "future": "cpp",
+        "latch": "cpp",
+        "iostream": "cpp"
+    }
+}
